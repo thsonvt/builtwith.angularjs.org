@@ -1507,6 +1507,23 @@
         "Mobile",
         "jQuery"
       ]
-    }
+    },
+    {
+    "name": "Walkabout Singapore",
+    "thumb": "walkaboutsg/thumb.png", 
+    "desc": "The responsive map shows startups, incubators and co-working spaces participating in Walkabout Singapore 2013", // One or two sentences
+    "url": "http://represent.sg/WalkaboutSG", 
+    "info": "http://represent.sg/WalkaboutSG", 
+    "src": "https://github.com/thsonvt/WalkaboutSG", 
+    "submitter": "Son Le Thanh",
+    "submissionDate": "2013-05-17", 
+    "tags": [
+      "Startup", "incubators", "CoWorking", "Singapore",
+      "Social", "Community",  
+      "Google Maps", "PHP", "Responsive", "CSS3", "Mobile", "AppCache", 
+      "No jQuery",
+      "Open Source"
+    ]
+  }
   ]
 }
